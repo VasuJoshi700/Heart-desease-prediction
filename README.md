@@ -42,3 +42,35 @@ From the above visuals we can perceive that people having cholestrol between 200
 ![heart cholestrol and age](https://user-images.githubusercontent.com/87512268/135968260-477537e0-fbe4-483e-9ad0-5bca6b9e1cc6.png)
 In the above regression plot we can perceive that there is weak positive correlation between age and cholestrol .
 
+![heart thalach](https://user-images.githubusercontent.com/87512268/136006671-f2bade86-9266-4716-8a19-9a3e71ead486.png)
+From the above graph we can observe the relationship between thalach and old_peak
+
+![pie heart](https://user-images.githubusercontent.com/87512268/136007253-498a8993-996e-4010-83c9-9cb18095c9a3.png)
+ Above i check the balance of targeted class so this class has a balance ratio  .
+ 
+# _Machine Learning Modelling_
+**Divide the data into X and y (independent and targeted variable)**
+
+### Standardise the data by using MinMaxScaler
+
+MinMaxScaler. For each value in a feature, MinMaxScaler subtracts the minimum value in the feature and then divides by the range. The range is the difference between the original maximum and original minimum. MinMaxScaler preserves the shape of the original distribution.
+
+
+# Performed Algorithims 
+### KNN
+![heart knn](https://user-images.githubusercontent.com/87512268/136008715-62dbd764-b42e-479c-a989-8f14bcef2971.png)
+From the above graph i have choose the nearest neighbour which is 11,14,16
+Check the score of the model 
+
+### Logistic Regression 
+### Decesion Tree
+### Random Forest 
+### XG-Boost 
+### ADA-Boost
+
+_TO stablize the model
+
+
+
+
+
