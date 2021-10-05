@@ -26,6 +26,9 @@ Extracting the sumary of dataset
 In above boxplot we can see that there are outliers in cholestrol
 The highest cholestrol level that one can have is 200-350 (taking worst case scenario), i capped the outlier at 350 mg/dl cholestrol
 
+# Investigating null values
+There are not any null value in variables 
+
 # Exploratory Analysis
 
 ![heart age](https://user-images.githubusercontent.com/87512268/135967138-53403b8f-a906-4eb6-ab76-61d60124ee6f.png)
@@ -35,4 +38,7 @@ In above figure we can observe the distribution of age in data set , people at t
 
 ![heart cholestrol](https://user-images.githubusercontent.com/87512268/135967800-54fc10fd-3806-4dd5-8330-dbe6b605ea84.png)
 From the above visuals we can perceive that people having cholestrol between 200 to 250 are frequent in dataset
+
+![heart cholestrol and age](https://user-images.githubusercontent.com/87512268/135968260-477537e0-fbe4-483e-9ad0-5bca6b9e1cc6.png)
+In the above regression plot we can perceive that there is weak positive correlation between age and cholestrol .
 
