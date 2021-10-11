@@ -62,13 +62,14 @@ MinMaxScaler. For each value in a feature, MinMaxScaler subtracts the minimum va
 From the above graph i have choose the nearest neighbour which is 11,14,16
 Check the score of the model 
 
+I also performed hyperparameter tuning in models given below to stablize them and get the best results out of them 
+
 ### Logistic Regression 
 ### Decesion Tree
 ### Random Forest 
 ### XG-Boost 
 ### ADA-Boost
-
-_TO stablize the model
+Every model is working efficiently except XG-boost reason may be the low amount of data .
 
 
 
