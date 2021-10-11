@@ -45,7 +45,7 @@ In the above regression plot we can perceive that there is weak positive correla
 ![heart thalach](https://user-images.githubusercontent.com/87512268/136006671-f2bade86-9266-4716-8a19-9a3e71ead486.png)
 From the above graph we can observe the relationship between thalach and old_peak
 
-![pie heart](https://user-images.githubusercontent.com/87512268/136007253-498a8993-996e-4010-83c9-9cb18095c9a3.png)
+![pie heart](https://user-images.githubusercontent.com/87512268/136007253-498a8993-996e-4010-83c9-9cb18095c9a3.png)   
  Above i check the balance of targeted class so this class has a balance ratio  .
  
 # _Machine Learning Modelling_
