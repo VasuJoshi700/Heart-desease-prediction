@@ -64,7 +64,9 @@ Check the score of the model
 
 I also performed hyperparameter tuning in models given below to stablize them and get the best results out of them 
 
-### Logistic Regression 
+### Logistic Regression
+ In logistic regression, we decide a probability threshold. If the probability of a particular element is higher than the probability threshold then we classify that element in one group or vice versa.
+
 ### Decesion Tree
 ### Random Forest 
 ### XG-Boost 
